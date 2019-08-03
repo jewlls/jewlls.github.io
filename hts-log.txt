@@ -1,0 +1,18 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 03 Aug 2019 12:32:54 at http://themes.beesoft.it/dollistraut-fashion/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://themes.beesoft.it/dollistraut-fashion/ -O1 "C:\Users\Aminsati\Desktop\jewel" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:32:57	Warning: 	Link themes.beesoft.it/dollistraut-fashion/ not scanned (follow robots meta tag)
+12:33:02	Error: 	"Not Found" (404) at link themes.beesoft.it/dollistraut-fashion/bootstrap/fonts/glyphicons-halflings-regular.eot (from themes.beesoft.it/dollistraut-fashion/bootstrap/css/bootstrap.min.css)
+12:33:02	Error: 	"Not Found" (404) at link themes.beesoft.it/dollistraut-fashion/bootstrap/fonts/glyphicons-halflings-regular.eot? (from themes.beesoft.it/dollistraut-fashion/bootstrap/css/bootstrap.min.css)
+12:33:02	Error: 	"Not Found" (404) at link themes.beesoft.it/dollistraut-fashion/bootstrap/fonts/glyphicons-halflings-regular.woff2 (from themes.beesoft.it/dollistraut-fashion/bootstrap/css/bootstrap.min.css)
+12:33:02	Error: 	"Not Found" (404) at link themes.beesoft.it/dollistraut-fashion/bootstrap/fonts/glyphicons-halflings-regular.woff (from themes.beesoft.it/dollistraut-fashion/bootstrap/css/bootstrap.min.css)
+12:33:02	Error: 	"Not Found" (404) at link themes.beesoft.it/dollistraut-fashion/bootstrap/fonts/glyphicons-halflings-regular.ttf (from themes.beesoft.it/dollistraut-fashion/bootstrap/css/bootstrap.min.css)
+12:33:02	Error: 	"Not Found" (404) at link themes.beesoft.it/dollistraut-fashion/bootstrap/fonts/glyphicons-halflings-regular.svg (from themes.beesoft.it/dollistraut-fashion/bootstrap/css/bootstrap.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 30 seconds : 33 links scanned, 26 files written (1109277 bytes overall) [948795 bytes received at 31626 bytes/sec], 209804 bytes transferred using HTTP compression in 14 files, ratio 19%, 8.2 requests per connection
+(6 errors, 1 warnings, 0 messages)
